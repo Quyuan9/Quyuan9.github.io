@@ -4,7 +4,7 @@
   <url>
     <loc>http://example.com/2023/06/05/My-Second-Blog/</loc>
     
-    <lastmod>2023-06-05</lastmod>
+    <lastmod>2023-06-06</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13,7 +13,7 @@
   <url>
     <loc>http://example.com/2023/06/05/My%20New%20Post/</loc>
     
-    <lastmod>2023-06-05</lastmod>
+    <lastmod>2023-06-06</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -22,7 +22,7 @@
 
   <url>
     <loc>http://example.com/</loc>
-    <lastmod>2023-06-05</lastmod>
+    <lastmod>2023-06-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
